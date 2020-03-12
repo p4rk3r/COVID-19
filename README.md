@@ -18,7 +18,7 @@ Notebook and information related to the SARS-CoV-2 virus and disease
 
 ### Masks related papers
 
-- Association between 2019-nCoV transmission and N95 respirator use ->  [Link](https://www.medrxiv.org/content/10.1101/2020.02.18.20021881v1.full.pdf)
+- [Association between 2019-nCoV transmission and N95 respirator use](https://www.medrxiv.org/content/10.1101/2020.02.18.20021881v1.full.pdf)
 
 ### Contagion / Transmission related papers
 
