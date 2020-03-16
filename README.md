@@ -41,7 +41,7 @@ Notebook and information related to the SARS-CoV-2 virus and disease
 
 ### Contagion / Transmission related papers
 
-- [Lack of COVID-19 Transmission on an International Flight] (https://www.cmaj.ca/content/lack-covid-19-transmission-international-flight)
+- [Lack of COVID-19 Transmission on an International Flight](https://www.cmaj.ca/content/lack-covid-19-transmission-international-flight)
 -[COULD AIR FILTRATION REDUCE COVID-19 SEVERITY AND SPREAD?](https://necsi.edu/could-air-filtration-reduce-covid19-severity-and-spread)
 - [Feasibility of controlling 2019-nCoV outbreaks by isolation of cases and contacts](https://cmmid.github.io/topics/covid19/control-measures/contact-tracing.html)
 - [A mathematical model for simulating the transmission of Wuhan novel Coronavirus]()https://www.biorxiv.org/content/10.1101/2020.01.19.911669v1
