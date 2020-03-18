@@ -17,7 +17,8 @@ Notebook and information related to the SARS-CoV-2 virus and disease
 ### Droplets and aerosol infection related preprints/papers
 - [Dynamics of infectious disease transmission by inhalable respiratory droplets](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2894888/)
 - [Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents](https://www.journalofhospitalinfection.com/article/S0195-6701(20)30046-3/fulltext)
-- [Aerosol and surface stability of HCoV-19 (SARS-CoV-2) compared to SARS-CoV-1](https://www.medrxiv.org/content/10.1101/2020.03.09.20033217v1.full.pdf)
+- (PEER REVIEWED)[Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://www.nejm.org/doi/full/10.1056/NEJMc2004973?query=featured_home)
+- (PREPRINT) [Aerosol and surface stability of HCoV-19 (SARS-CoV-2) compared to SARS-CoV-1](https://www.medrxiv.org/content/10.1101/2020.03.09.20033217v1.full.pdf)
 - [An epidemiological investigation of 2019 novel coronavirus diseases through aerosol-borne transmission by public transport](https://www.dropbox.com/s/7u5t2jlldphrqkc/Autobus_%E4%B8%80%E8%B5%B7%E5%9C%A8%E5%85%AC%E5%85%B1%E4%BA%A4%E9%80%9A%E5%B7%A5%E5%85%B7%E5%86%85%E6%B0%94%E6%BA%B6%E8%83%B6%E4%BC%A0%E6%92%AD%E7%9A%84_%E7%9C%81%E7%95%A5_%E7%8A%B6%E7%97%85%E6%AF%92%E8%82%BA%E7%82%8E%E8%81%9A%E9%9B%86%E6%80%A7%E7%96%AB%E6%83%85%E6%B5%81%E8%A1%8C%E7%97%85%E5%AD%A6%E8%B0%83%E6%9F%A5_%E7%BD%97%E5%9E%B2%E7%82%9C.pdf?dl=0)
 
 
