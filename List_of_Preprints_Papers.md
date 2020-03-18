@@ -42,6 +42,7 @@ Notebook and information related to the SARS-CoV-2 virus and disease
 
 ### Contagion / Transmission related preprints/papers
 
+- (Imperial College Report) [Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf)
 - [Lack of COVID-19 Transmission on an International Flight](https://www.cmaj.ca/content/lack-covid-19-transmission-international-flight)
 - [COULD AIR FILTRATION REDUCE COVID-19 SEVERITY AND SPREAD?](https://necsi.edu/could-air-filtration-reduce-covid19-severity-and-spread)
 - [Feasibility of controlling 2019-nCoV outbreaks by isolation of cases and contacts](https://cmmid.github.io/topics/covid19/control-measures/contact-tracing.html)
